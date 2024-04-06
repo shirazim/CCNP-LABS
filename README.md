@@ -1,2 +1,2 @@
 # CCNP-LABS
-CCNP LAB REPOSITORY
+This repository is going to be used to document various exercises on my CCNP journey
